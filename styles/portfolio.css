@@ -34,6 +34,7 @@
     border-radius: 5px;
     font-size: 20px;
     border: none;
+    display: flex;
 }
 
 .btn-second {
@@ -45,6 +46,10 @@
     font-size: 20px;
     border: 2px solid #FD6E0A;
     margin-left: 30px;
+    display: flex;
+}
+.l{
+    display: flex;
 }
 .secondary-bg{
     background-color: #FFF8F3;
@@ -188,6 +193,9 @@ main section{
     color: #757575;
 }
 .resume-download-cv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
     margin-top: 50px;
 }
 /* footer style */
